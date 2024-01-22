@@ -61,16 +61,19 @@ Comments
 
 1. Uniqueness or difference when compared to similar products in the current market?
 
- if just use existing features on phones (samsung & iphone), only got warning alerts
+  if just use existing features on phones (samsung & iphone), only got warning alerts
 
- existing apps in stores (app store, google play store) only has the option to limit usage of certain apps
+  existing apps in stores (app store, google play store) only has the option to limit usage of 
+  certain apps
 
- our app has option to also shut down the phone or turn off the screen for a limited amount of time (around 10 - 20 minutes) according to the user's preference, as a way to let the user reflect on the amount of time they have spent staring on their phones.
+  our app has option to also shut down the phone or turn off the screen for a limited amount of 
+  time (around 10 - 20 minutes) according to the user's preference, as a way to let the user 
+  reflect on the amount of time they have spent staring on their phones.
 
 
 2. If got important matters on phone during shut down, such as messages from family or from workplace?
 
-setting to either disable the shut down mechanics or shorten the duration when it shuts down
+  setting to either disable the shut down mechanics or shorten the duration when it shuts down
 
 
 
