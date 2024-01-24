@@ -75,7 +75,13 @@ Comments
 
   setting to either disable the shut down mechanics or shorten the duration when it shuts down
 
+-[Assignment 4 -Newsletter)](https://github.com/Jiafeng7/Utm-e-portfolio/blob/main/pdf/GROUP%207_NEWSLETTER_ASSIGNMENT%204.pdf)
+<img src="./image/picture for assignment4.jpg" alt="Image Alt Text" width="300"/>
 
+#### Reflection 5
+Through this industrial talk, I understand the Tech-driven innovation has profoundly impacted human life by
+efficiency improvements and transformative advancements in various sector especially in agricultural sectors.
+Overall, the innovation can making a positive impact on the quality of human life.
 
 - ASSEMBLE PC (LAB)
 <img src="./image/PCAssemble (1).jpg" alt="Image Alt Text" width="300"/>
