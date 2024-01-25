@@ -75,7 +75,11 @@ Comments
 
   setting to either disable the shut down mechanics or shorten the duration when it shuts down
 
+
 -[Assignment 4 -Newsletter)](https://github.com/Jiafeng7/Utm-e-portfolio/blob/main/pdf/GROUP%207_NEWSLETTER_ASSIGNMENT%204.pdf)
+
+
+
 <img src="./image/picture for assignment4.jpg" alt="Image Alt Text" width="300"/>
 
 #### Reflection 5
